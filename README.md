@@ -35,10 +35,10 @@ npm i sequelizer
 ### Walkthrough Video: 
 
 
-[CREATE database and seed data ](https://drive.google.com/file/d/1zWIbsiruCbIgKUnomxm0ZyWXaeC1fGwR/view)
-[GET,POST,UPDATE,DELETE Categories ](https://drive.google.com/file/d/1YuSX5v5ZFnd5OH8ERKI1QCeYRfkzftus/view)
-[GET,POST,UPDATE,DELETE Products](https://drive.google.com/file/d/1dMA8wCxMQKU8bl6PSTt2pOc9xYN_bykB/view)
-[GET,POST,UPDATE,DELETE Tags](https://drive.google.com/file/d/1CXuYxzgNUYWNdWY6GDi_Lr15WbSknXdC/view)
+* [CREATE database and seed data ](https://drive.google.com/file/d/1zWIbsiruCbIgKUnomxm0ZyWXaeC1fGwR/view)
+* [GET,POST,UPDATE,DELETE Categories ](https://drive.google.com/file/d/1YuSX5v5ZFnd5OH8ERKI1QCeYRfkzftus/view)
+* [GET,POST,UPDATE,DELETE Products](https://drive.google.com/file/d/1dMA8wCxMQKU8bl6PSTt2pOc9xYN_bykB/view)
+* [GET,POST,UPDATE,DELETE Tags](https://drive.google.com/file/d/1CXuYxzgNUYWNdWY6GDi_Lr15WbSknXdC/view)
 
 
 ## Contribution Guidelines
