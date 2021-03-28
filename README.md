@@ -35,7 +35,7 @@ npm i sequelizer
 ### Walkthrough Video: 
 
 
-![CREATE database and seed data ](https://drive.google.com/file/d/1zWIbsiruCbIgKUnomxm0ZyWXaeC1fGwR/view)
+[CREATE database and seed data ](https://drive.google.com/file/d/1zWIbsiruCbIgKUnomxm0ZyWXaeC1fGwR/view)
 
 
 
