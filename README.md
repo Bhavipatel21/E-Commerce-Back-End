@@ -36,25 +36,9 @@ npm i sequelizer
 
 
 [CREATE database and seed data ](https://drive.google.com/file/d/1zWIbsiruCbIgKUnomxm0ZyWXaeC1fGwR/view)
-
-
-
-
-## Mock-Up
-
-The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
-
-The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./Assets/13-orm-homework-demo-02.gif)
-
-The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
-
-![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
-
-Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
+[GET,POST,UPDATE,DELETE Categories ](https://drive.google.com/file/d/1YuSX5v5ZFnd5OH8ERKI1QCeYRfkzftus/view)
+[GET,POST,UPDATE,DELETE Products](https://drive.google.com/file/d/1dMA8wCxMQKU8bl6PSTt2pOc9xYN_bykB/view)
+[GET,POST,UPDATE,DELETE Tags](https://drive.google.com/file/d/1CXuYxzgNUYWNdWY6GDi_Lr15WbSknXdC/view)
 
 
 ## Contribution Guidelines
